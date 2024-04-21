@@ -7,7 +7,7 @@
   "author": {
     "name": "Antriksh Kashyap",
     "email": "work.antriiksh@gmail.com",
-    "url": "https://github.com/antriiksh/"
+    "url": "http://antriiksh.github.io/portfolio"
   },
   "scripts": {
     "prebuild": "node scripts/favicons.js",
